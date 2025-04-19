@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\2DGame\\RoguelikeGame\\我的项目\\Intermediate\\Source\\我的项目.Build.cs",
+		"D:\\2DGame\\RoguelikeGame\\我的项目\\Intermediate\\Source\\我的项目.Target.cs",
+		"D:\\2DGame\\RoguelikeGame\\我的项目\\Intermediate\\Source\\我的项目Client.Target.cs",
+		"D:\\2DGame\\RoguelikeGame\\我的项目\\Intermediate\\Source\\我的项目Editor.Target.cs",
+		"D:\\2DGame\\RoguelikeGame\\我的项目\\Intermediate\\Source\\我的项目Server.Target.cs"
+	],
+	"EngineVersion": "5.4.2"
+}
